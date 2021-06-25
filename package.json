@@ -1,23 +1,22 @@
 {
   "name": "@stoplight/cra-template-elements",
-  "version": "1.1.2",
+  "version": "1.0.0-beta.1",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "Elements Creat React App Template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/stoplightio/cra-template-elements.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/stoplightio/cra-template-elements/issues"
   },
   "files": [
     "template",
